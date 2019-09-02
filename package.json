@@ -1,7 +1,7 @@
 {
   "name": "ep_user_font_size",
   "description": "User Pad Contents font size can be set in settings, this does not effect other peoples views",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "johnyma22 (John McLear) <john@mclear.co.uk>",
   "repository" : { "type" : "git", "url"  : "https://github.com/JohnMcLear/ep_user_font_size.git" }
 }

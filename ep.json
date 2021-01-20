@@ -6,7 +6,7 @@
         "postAceInit": "ep_user_font_size/static/js/index:postAceInit"
       },
       "hooks": {
-        "eejsBlock_editbarMenuLeft":"ep_user_font_size/eejs"
+        "eejsBlock_editbarMenuRight":"ep_user_font_size/eejs"
       }
     }
   ]
